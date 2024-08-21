@@ -1,0 +1,12 @@
+D:\Job-Portal_2\Demo\src\main\java\com\dao\JobDAO.java
+D:\Job-Portal_2\Demo\src\main\java\com\dao\UserDAO.java
+D:\Job-Portal_2\Demo\src\main\java\com\DB\DBConnect.java
+D:\Job-Portal_2\Demo\src\main\java\com\entity\Jobs.java
+D:\Job-Portal_2\Demo\src\main\java\com\entity\User.java
+D:\Job-Portal_2\Demo\src\main\java\com\servlet\AddJobServlet.java
+D:\Job-Portal_2\Demo\src\main\java\com\servlet\DeleteServlet.java
+D:\Job-Portal_2\Demo\src\main\java\com\servlet\LoginServlet.java
+D:\Job-Portal_2\Demo\src\main\java\com\servlet\LogOutServlet.java
+D:\Job-Portal_2\Demo\src\main\java\com\servlet\RegisterServlet.java
+D:\Job-Portal_2\Demo\src\main\java\com\servlet\UpdateJobServlet.java
+D:\Job-Portal_2\Demo\src\main\java\com\servlet\UpdateUserProfileServlet.java
